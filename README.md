@@ -27,6 +27,7 @@ Build your own dataset by setting up the following directory structure:
 * BDD100K can be downloaded from here: [BDD100K](https://www.kaggle.com/datasets/solesensei/solesensei_bdd100k)
 * Berkeley Deepdrive
 * Nexet 2017
+* VFP290K
 
 ## Getting Started
 
