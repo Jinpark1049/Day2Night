@@ -6,7 +6,7 @@ Image-to-Image translation using Gan based models, currently n2d_v3 is the most 
 
 ## CycleGAN
 PyTorch implementation of [CycleGAN](https://arxiv.org/pdf/1703.10593.pdf)
-Instead of using Cycle-Consistency Loss, replaced it by [Style Loss](https://ieeexplore.ieee.org/document/7780634), also adapted upsampling than deconvolutional layer.
+Instead of using Cycle-Consistency Loss, replaced it by [Style Loss](https://ieeexplore.ieee.org/document/7780634), also adapted upsampling instead of deconvolutional layer.
 + 9 residual blocks for generator
 
 ## Adain
